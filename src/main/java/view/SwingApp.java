@@ -234,9 +234,4 @@ public class SwingApp extends JFrame {
 
     }
 
-
-
-
-
-
 }
